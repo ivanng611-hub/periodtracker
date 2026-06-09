@@ -1,0 +1,92 @@
+# Privacy Policy
+Privacy Policy
+Last updated: June 7, 2026
+
+This Privacy Policy describes how Period Tracker ("we", "our", or "the App") handles your information when you use our mobile application.
+
+1. Information We Collect
+
+Period Tracker does not collect, store, or transmit any personal information, usage data, or device identifiers to any external server.
+
+The App operates entirely offline on your device. No data is sent anywhere.
+
+2. Local Storage
+
+The App uses a local SQLite database stored exclusively on your device to save:
+
+- Period start and end dates you have logged
+- Daily symptom records (flow, pain, mood, physical symptoms, notes)
+- Your preferences (language, notification time, encryption settings)
+- Encryption password (hashed with SHA-256, never stored in plaintext)
+
+All of this data remains on your device at all times and is never transmitted to any server, third party, or cloud service. You can delete all data at any time through the App's Settings.
+
+3. Data Encryption
+
+When you enable encryption, Period Tracker protects your data using AES-256-CBC encryption — the same standard used by banks and governments. Your password is converted to a 256-bit encryption key using SHA-256 hashing. Each encryption operation uses a random initialization vector (IV) to ensure security. We cannot access, decrypt, or read your encrypted data — we do not have your password and the App does not transmit it anywhere.
+
+4. Internet Access
+
+Period Tracker does not request or use internet permission on Android. The App is designed to function 100% offline. All data processing, storage, and calculations happen locally on your device.
+
+5. Notifications
+
+If you enable reminders, the App schedules local push notifications on your device using your device's notification system. These notifications are scheduled locally and do not require any server or internet connection. You can disable notifications at any time in Settings.
+
+6. Data Export
+
+When you export your data as CSV or PDF, the file is generated locally on your device. The App does not upload or transmit these files. You choose where to save or share them through your device's share sheet.
+
+7. Third-Party Services
+
+Period Tracker does not integrate any third-party analytics, advertising, crash reporting, tracking SDKs, or cloud services.
+
+The App does not use:
+
+- Google Analytics or any analytics service
+- Google AdMob or any advertising network
+- Firebase or any cloud service
+- Crashlytics or any crash reporting tool
+- Any form of user tracking or profiling
+
+8. Children's Privacy
+
+Period Tracker does not collect any personal information from anyone, including children under the age of 13. Since no data is collected, the App is fully compliant with COPPA requirements.
+
+9. Data Security
+
+Your data is protected by multiple layers of security:
+
+- 100% offline operation — no data transmitted
+- SQLite database stored in your device's private app storage
+- Optional AES-256-CBC encryption with user-controlled password
+- Device-level security (PIN, fingerprint, or face unlock)
+- Zero external data access
+
+10. Data Retention
+
+All data is stored locally on your device until you choose to delete it. The App does not retain any data on external servers. Uninstalling the App will permanently delete all data unless you have exported it.
+
+11. Your Rights
+
+You have complete control over your data:
+
+- View: Browse all your logged data within the App
+- Export: Download CSV or PDF files of your data at any time
+- Delete: Clear all data through Settings (with confirmation)
+- Encrypt: Enable AES-256 encryption with your own password
+- Disable: Turn off reminders and encryption at any time
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected in the App's About section. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+13. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+ivanng611@gmail.com
+
+---
+
+Period Tracker — 100% Offline. 100% Yours.

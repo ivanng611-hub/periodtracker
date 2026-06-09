@@ -1,2 +1,0 @@
-# periodtracker
-Privacy Policy
